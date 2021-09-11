@@ -1,0 +1,1 @@
+--game.Players.eeeeepie:kick("ควยไม่มีไรหรอกเเกล้งเฉยๆ")
